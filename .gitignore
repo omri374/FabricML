@@ -1,0 +1,13 @@
+docs/site/
+
+# OSX Junk
+.DS_Store
+
+# test cache
+.cache/*
+tests/__pycache__/*
+*.pytest_cache/
+
+.idea/
+.vscode/
+mlruns/

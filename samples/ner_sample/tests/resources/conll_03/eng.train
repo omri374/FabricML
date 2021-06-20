@@ -1,0 +1,15 @@
+NBA NNP I-NP I-ORG
+rejects VBZ I-VP O
+Canadian JJ I-NP I-MISC
+call NN I-NP O
+to TO I-VP O
+boycott VB I-VP O
+Peruvian JJ I-NP I-MISC
+player NN I-NP O
+. . O O
+
+Bill NNP I-NP I-PER
+Redburn NNP I-NP I-PER
+
+TOKYO NNP I-NP I-LOC
+1991-08-22 CD I-NP O
